@@ -4,7 +4,7 @@ from setuptools import find_packages
 import library
 
 setuptools.setup(
-    name="library",
+    name="example_library",
     version=library.__version__,
     description="Example Python library.",
     classifiers=[
